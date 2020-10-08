@@ -52,7 +52,7 @@ I hope,someone improve this noise.
 
 ### My making program history  
   
-Watch [blog](http://www.netosa.com/blog/cat2/esp32-esp-idf/bluetooth-a2dp/aptx-aptx-hd/)  
+Look [blog](http://www.netosa.com/blog/cat2/esp32-esp-idf/bluetooth-a2dp/aptx-aptx-hd/)  
 
 
 
